@@ -29,7 +29,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough 
 
-Here's a walkthrough of implemented user stories:
+Here's a walkthrough of implemented to do list app:
 
 <img src='https://github.com/emalysz/todolist/blob/master/ToDoApp.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
